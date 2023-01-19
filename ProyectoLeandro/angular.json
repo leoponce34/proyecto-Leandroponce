@@ -26,8 +26,11 @@
             ],
             "styles": [
               "src/styles.css"
+              "ProyectoLeandro/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoLeandro/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
